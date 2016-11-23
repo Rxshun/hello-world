@@ -8,3 +8,6 @@ Your turn:
 3. Then add, commit and push the file back to Git
 
 Roshun Added This Line
+
+@03:23PM: Dad added another line. Do a 'git pull' and 
+you will see these lines in your local file
